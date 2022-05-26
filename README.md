@@ -1,7 +1,12 @@
-### Hi there 👋
+                                                                      My name is Rodolfo
+                                                                      
+                                                                       But they call me
+                                                                       
+                                                                             oBST
 
-<!--
-**Rodolfo-oBST/Rodolfo-oBST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### So, here you're, on my P R O F I L E... ✨
+
+
 
 Here are some ideas to get you started:
 
