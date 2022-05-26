@@ -4,7 +4,7 @@
                                                                       
 #                                                            oBST     🌌
 
-### So, here you're, on my P R O F I L E... ✨
+### So, here you're, on my P R O F I L E... ✨ <br> <br>
 
 --> Actually I know how to work with C++. ✔️
 
@@ -14,9 +14,9 @@
 
 --> If you want to call me, this is all my social media: 
 
--> Twitter: twitter.com/oBST01 🌠 <br>
--> Reddit: reddit.com/user/obst01 🎇 <br>
--> Discord: discord.com/users/391384838298402824 📭
+-> [Twitter](twitter.com/oBST01) 🌠 <br>
+-> [Reddit](reddit.com/user/obst01) 🎇 <br>
+-> [Discord](discord.com/users/391384838298402824) 📭
 
 #### Have a good day. 😀
 
