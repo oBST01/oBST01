@@ -14,7 +14,7 @@
 
 --> If you want to call me, this is all my social media: 
 
--> [Twitter](https://twitter.com/oBST01) 🌠 <br>
+-> [Twitter](https://twitter.com/oBST01) 🌌 <br>
 -> [Reddit](https://reddit.com/user/obst01) ⛩️ <br>
 -> [Discord](https://discord.com/users/391384838298402824) 📭
 
