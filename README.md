@@ -2,13 +2,13 @@
                                                                       
 ####                                                 But you can call me
                                                                       
-#                                                            oBST     🌹
+#                                                            oBST     
 
-### So, here you're, on my P R O F I L E... ✨ <br> <br>
+### So, here it is, my profile... ✨ <br> <br>
 
---> Nowdays, I know how to work with C++. ✔️
+--> Much experience with C++. ✔️
 
---> Today I am learning and practicing HTML, CSS and JavaScript. 🔰
+--> Today I am learning and practicing HTML, CSS and JavaScript (React JS and TypeScript). 🔰
 
 --> Intending to work with Web Development and all those languages. 🎈
 
@@ -16,8 +16,8 @@
 
 -> [Twitter](https://twitter.com/oBST01) 🌌 <br>
 -> [Reddit](https://reddit.com/user/obst01) ⛩️ <br>
--> [Discord](https://discord.com/users/391384838298402824) 📭
+-> [Discord](https://discord.com/users/391384838298402824) 📭 <br>
 
-#### Have a good day. 😀
+### Remember, practice makes perfect. 🌹
 
 
