@@ -6,8 +6,8 @@ But you can call me
 <div align="center"> <h3>Here it is, my profile ✨</h2></div><br> <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obst01&show_icons=true&theme=synthwave" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obst01&hide=php&exclude_repo=My-c-files&show_icons=true&theme=synthwave&layout=compact&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=obst01&show_icons=true&theme=synthwave" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obst01&hide=php&exclude_repo=My-c-files&show_icons=true&theme=synthwave&layout=compact&count_private=true" />
  </div> <br> <br>
 
 --> Much exp with C++, but not think to work with it. ✔️
