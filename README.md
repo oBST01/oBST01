@@ -46,4 +46,4 @@ But you can call me
 
 <div align="center"> <h2>... Practice makes perfect. 🌹</h2>
 
-![Snake animation](https://github.com/obst01/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/oBST01/oBST01/blob/output/github-contribution-grid-snake.svg)
