@@ -22,8 +22,6 @@ But you can call me
 
 <div align="center">
 
-![](https://dcbadge.vercel.app/api/shield/391384838298402824)
-
 <a href="https://twitter.com/oBST01">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
 </a>
@@ -36,10 +34,10 @@ But you can call me
 
 <div align="center">
 
-![](https://dcbadge.vercel.app/api/shield/391384838298402824)
-
+<a href="https://discord.com/users/391384838298402824">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+</a>
 <a href="mailto:obst01contact@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
 </a>
 </div>
