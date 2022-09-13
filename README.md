@@ -38,7 +38,7 @@ But you can call me
 <a href="https://discord.com/users/391384838298402824">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
 </a>
-<a href="mailto:obst01contact@gmail.com">
+<a href="mailto:contatorodolfo7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
 </a>
 </div>
