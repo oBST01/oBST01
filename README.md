@@ -1,5 +1,5 @@
 <div> 
-<h1 align="center"> Hi there 😃👋, my name is Rodolfo</h1>                                                                     
+<h1 align="center"> My name is Rodolfo</h1>                                                                     
 But you can call me                                                                   
 <h1 align="center"> oBST </h1>
 </div> 
@@ -12,13 +12,13 @@ But you can call me
 
 --> Much exp with C++, but not think to work with it. ✔️
 
---> Today I am practicing HTML, CSS, JavaScript and ReactJS. 🔰
+--> Today I am practicing HTML, CSS, JavaScript, ReactJS and some game engines like Unity and Roblox Studios(Lua). 🔰
 
 --> And, if I have time, learn TypeScript, Rust and Python. 🧐
 
---> Intending to work with Front-End, using UX/UI design. 🎈
+--> Intending to work with Front-End, using UX/UI design or Game Design. 🎈
 
---> If you want to found me, this is all my social media: 
+--> This is all my social media: 
 
 <div align="center">
 
