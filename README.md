@@ -16,7 +16,7 @@ But you can call me
 
 --> And, if I have time, learn TypeScript, Rust and Python. 🧐
 
---> Intending to work with Front-End, using UX/UI design or Game Design. 🎈
+--> Intending to work as UX/UI Designer or Game Designer. 🎈
 
 --> This is all my social media: 
 
