@@ -10,9 +10,9 @@ But you can call me
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obst01&hide=php&exclude_repo=My-c-files&show_icons=true&theme=synthwave&layout=compact&count_private=true" />
  </div> <br> <br> -->
 
---> Much exp with C++, but not think to work with it. ✔️
+--> Much exp with C++, HTML and CSS✔️
 
---> Today I am practicing HTML, CSS, JavaScript, ReactJS and some game engines like Unity and Roblox Studios(Lua). 🔰
+--> Today I am practicing JavaScript, ReactJS and some game engines like GameMaker(GML), Unity(C#), Unreal(C++) and Roblox Studios(Lua). 🔰
 
 --> And, if I have time, learn TypeScript, Rust and Python. 🧐
 
@@ -46,6 +46,6 @@ But you can call me
 </a>
 </div>
 
-<div align="center"> <h2>... Practice makes perfect. 🌹</h2>
+<div align="center"> <h2>... The life is like a game, hardcore mode, but you don't need to do speedrun. 🎮</h2>
 
 ![Snake animation](https://github.com/oBST01/oBST01/blob/output/github-contribution-grid-snake.svg)
