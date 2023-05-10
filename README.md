@@ -46,6 +46,6 @@ But you can call me
 </a>
 </div>
 
-<div align="center"> <h2>... The life is like a game, hardcore mode, but you don't need to do speedrun. 🎮</h2>
+<div align="center"> <h2>... The life is like a game, hardcore mode, don't do a speedrun, you may lose it. 🎮</h2>
 
 ![Snake animation](https://github.com/oBST01/oBST01/blob/output/github-contribution-grid-snake.svg)
